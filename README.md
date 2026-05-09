@@ -201,5 +201,3 @@ Then go to **http://localhost:3000/admin/login** and sign in.
 ---
 
 *Submission Date: 19-04-2026*
-# trio-academy
-# trio-academy
